@@ -1,6 +1,6 @@
 {
-    "name": "text_application_web_routing",
-    "short_name": "text_application_web_routing",
+    "name": "al_hayya_store",
+    "short_name": "al_hayya_store",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
